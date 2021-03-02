@@ -14,12 +14,12 @@ echo -e "\e[35mComplete Successfully"|pv -qL 20
 echo -e "\e[44m "
 clear
 echo " "
-figlet "Hack"
-figlet "WhatsApp"
+figlet "Whatsapp OTP"
+figlet "Bypassing"
 echo " "
 echo " "
 echo " "
-echo -e "\e[44m        This Tool Only For EDUCATIONAL PURPOSE          "
+echo -e "\e[44m        This Tool Only For Educational Purpose!         "
 echo " "
 echo -e "\e[92m "
 read -r -s -p $'Press enter to continue...\n'

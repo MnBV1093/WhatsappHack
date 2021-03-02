@@ -1,7 +1,7 @@
 #!/system/bin/sh
 clear
 echo " "
-echo -e "Whatsapp Hacking...."
+echo -e "Whatsapp OTP Bypassing...
 echo -e "  coded by Peter Matnick"
 echo " "
 echo " "

@@ -1,7 +1,7 @@
 #!/system/bin/sh
 clear
 echo " "
-echo -e "Whatsapp OTP Bypassing...
+echo -e "Whatsapp OTP Bypassing..."
 echo -e "  coded by Peter Matnick"
 echo " "
 echo " "
@@ -19,7 +19,7 @@ figlet "Bypassing"
 echo " "
 echo " "
 echo " "
-echo -e "\e[44m        This Tool Only For Educational Purpose!         "
+echo -e "\e[44m        This Tool Only For Educational Purpose!"
 echo " "
 echo -e "\e[92m "
 read -r -s -p $'Press enter to continue...\n'
